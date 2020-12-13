@@ -1,5 +1,9 @@
 # created by azad
 # follow me on IG @p8z4
+import os
+import sys
+import uuid
+
 def host():
     import os
     os.system("cls")
