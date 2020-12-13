@@ -3,6 +3,7 @@
 import os
 import sys
 import uuid
+import requests
 
 def host():
     import os
