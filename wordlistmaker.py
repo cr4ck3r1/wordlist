@@ -44,7 +44,7 @@ def host():
         os.system('cls')
         print('''
         
-        ARA SOFTWARE ...
+        Punjabi ...
                         special thanks to azad
         -----------------------------------------------------------------------
         { Tkaya Hamu Walamakan Juab Bbdarawa Bo Away Wordlistaka Halla Nabet }
