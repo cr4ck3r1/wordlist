@@ -1132,7 +1132,7 @@ def baha():
 
     if name == '__main__':
         baha()
-os.system('xdg-open https://www.instagram.com/ara_software/')
+os.system('xdg-open https://www.instagram.com/i.punjabii/')
 os.system('clear')
 
 
